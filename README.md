@@ -8,4 +8,4 @@ The input file contains the adjacency list and has multiple lines
 input file source http://snap.stanford.edu/class/cs246-data/hw1q1.zip
 
 The  output  should  contain  one  line  per  user  in  the  following  format:
-<User><TAB><Recommendations>
+ User <TAB> Recommendations
